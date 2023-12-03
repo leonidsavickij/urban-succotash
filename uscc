@@ -1,0 +1,14 @@
+                HStack {
+                    ColoredRoundRectangle()
+                    ColoredRoundRectangle()
+                    ColoredRoundRectangle()
+                }
+            }
+            .rectangleColor(.blue)
+            ColoredRoundRectangle()
+            HStack {
+                ColoredRoundRectangle()
+                ColoredRoundRectangle()
+                ColoredRoundRectangle()
+            }
+            ColoredRoundRectangle()
